@@ -14,5 +14,5 @@ for i in vid:
 
 strm = int(input("enter : "))
 video[strm].download()
-print('Sucessfully')
+print('Sucessfully Download')
 
