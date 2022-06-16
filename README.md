@@ -8,6 +8,9 @@ At first install pytube library in python using code:
  
  
 after successfully installing write the code
-run the code and download youtube video as per your wish
+
+
+
+run the program and download youtube video as per your wish
 
 
